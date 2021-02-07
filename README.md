@@ -63,7 +63,7 @@ $ npm start
 ## Features
 - [x] Tela Perfil Empresa
 - [x] Tela Feedback do Usuário
-- [x] Tela Busca Por Skilss
+- [x] Tela Busca Por Skills
 - [x] Tela Resultado da Busca
 
 
