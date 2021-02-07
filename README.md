@@ -1,5 +1,5 @@
 <h1 >Step To Tech</h1>
-<p >Projeto confeccionado no curso de Desenvolvedor(a) fullstack da Labenu. O projeto tem como finalizade demonstrar o uso de Estado em componentes funcionais utilizando Hooks.</p>
+<p >Projeto confeccionado durante o evento de hackaton da Provi, o Hack- Woman. Um evento exclusivo para mulheres da Tecnologia. </p>
 
 
 # :ledger: Índice
