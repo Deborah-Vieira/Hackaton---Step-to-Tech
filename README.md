@@ -30,7 +30,7 @@ $ npm -v
 <p> Clonar o repositório:</p>
 
 ```
-$ git clone https://github.com/Deborah-Vieira/Hackaton---Step-to-Tech.git 
+$ git clone https://github.com/Deborah-Vieira/Step_To_Tech.git
 ```
 
 	
