@@ -1,8 +1,6 @@
 <h1 >Step To Tech</h1>
 <p >Projeto confeccionado no curso de Desenvolvedor(a) fullstack da Labenu. O projeto tem como finalizade demonstrar o uso de Estado em componentes funcionais utilizando Hooks.</p>
 
-  ![step-to-tech](https://user-images.githubusercontent.com/31224361/107162095-ae3e1780-697f-11eb-9124-6872de54c7f4.gif)
-
 
 # :ledger: Índice
 <!--ts-->
@@ -15,7 +13,7 @@
 ##     :pencil2:  Sobre
 <p>O projeto que está em desenvolvimento, é uma plataforma que visa automatizar o processo de contratação de pessoas em início de carreira, e empresas recrutadoras na Tecnologia. Utilizamos no frontend da aplicação as tecnologias Javascript, ReactJS e a Biblioteca de estilos Styled-Components. Acreditamos que, com essas essas tecnologias conseguimos desenvolver um código reutilizável, componentizado e estruturado. </p>
 
-![gif](https://user-images.githubusercontent.com/31224361/106182119-2dac3980-617d-11eb-88f0-62a8fed97b26.gif)
+  ![step-to-tech](https://user-images.githubusercontent.com/31224361/107162095-ae3e1780-697f-11eb-9124-6872de54c7f4.gif)
 
 
 ## :wrench:   Instalação
